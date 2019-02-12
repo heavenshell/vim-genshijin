@@ -10,6 +10,8 @@ Original author is [@Harusugi](https://github.com/korinzuz2).
 
 ### Settings
 
+Install [webap.vim](https://github.com/mattn/webapi-vim/).
+
 Get `client_id` and `client_secret` from [COTOHA API Portal](https://api.ce-cotoha.com/contents/index.html).
 
 Add `cotoha_client_id` and `cotoha_client_secret` into your `.vimrc`.
