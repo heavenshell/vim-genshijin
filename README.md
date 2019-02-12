@@ -2,6 +2,8 @@
 
 Genshijin is port of [Qiita's entry](https://qiita.com/Harusugi/items/f499e8707b36d0f570c4).
 
+Original author is [@Harusugi](https://github.com/korinzuz2).
+
 ![vim-genshijin](./assets/genshijin.gif)
 
 ## Usage
